@@ -45,7 +45,7 @@ var app = {
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
         */
-        document.location = "http://www.baidu.com";
+        document.location = "./showcase.html";
         console.log('Received Event: ' + id);
     }
 };
