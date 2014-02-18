@@ -98,3 +98,17 @@ Feb 17 20:31:51 yufandeMac.local ISC Showcase[27549] <Error>: CGContextSetBlendM
 2014-02-17 21:04:41.996 ISC Showcase[33240:80b] Resetting plugins due to page load.
 2014-02-17 21:04:43.189 ISC Showcase[33240:80b] Finished load of: file:///Users/yufanbai/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/53408AE5-79CB-4DF3-8D53-ACA2BB9ED307/ISC%20Showcase.app/www/showcase.html
 2014-02-17 21:04:48.630 ISC Showcase[33240:80b] CDVWebViewDelegate: Unexpected didFinish while waiting for load start.
+2014-02-17 23:11:17.872 ISC Showcase[4007:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-17 23:11:17.897 ISC Showcase[4007:80b] Unlimited access to network resources
+2014-02-17 23:11:18.168 ISC Showcase[4007:80b] Resetting plugins due to page load.
+2014-02-17 23:11:18.242 ISC Showcase[4007:80b] Finished load of: file:///Users/yufanbai/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/79478CE9-28DA-4A35-A87B-B14D6D814BE6/ISC%20Showcase.app/www/index.html
+2014-02-17 23:11:18.269 ISC Showcase[4007:80b] Resetting plugins due to page load.
+2014-02-17 23:11:18.470 ISC Showcase[4007:80b] Finished load of: file:///Users/yufanbai/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/79478CE9-28DA-4A35-A87B-B14D6D814BE6/ISC%20Showcase.app/www/showcase.html
+2014-02-17 23:11:19.565 ISC Showcase[4007:80b] CDVWebViewDelegate: Unexpected didFinish while waiting for load start.
+2014-02-17 23:21:37.366 ISC Showcase[5275:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-17 23:21:37.383 ISC Showcase[5275:80b] Unlimited access to network resources
+2014-02-17 23:21:37.598 ISC Showcase[5275:80b] Resetting plugins due to page load.
+2014-02-17 23:21:37.714 ISC Showcase[5275:80b] Finished load of: file:///Users/yufanbai/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/79478CE9-28DA-4A35-A87B-B14D6D814BE6/ISC%20Showcase.app/www/index.html
+2014-02-17 23:21:37.763 ISC Showcase[5275:80b] Resetting plugins due to page load.
+2014-02-17 23:21:37.781 ISC Showcase[5275:80b] Finished load of: file:///Users/yufanbai/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/79478CE9-28DA-4A35-A87B-B14D6D814BE6/ISC%20Showcase.app/www/showcase.html
+2014-02-17 23:21:38.301 ISC Showcase[5275:80b] CDVWebViewDelegate: Unexpected didFinish while waiting for load start.
